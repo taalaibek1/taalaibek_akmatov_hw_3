@@ -49,3 +49,6 @@ namesC.add(namesB.get(4));
 
     }
 }
+
+
+//https://github.com/taalaibek1/home_work3.2 Второя часть задании
